@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Python-Guide-CN" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../explore-python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../show-me-the-code" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../wxpy" vcs="Git" />
+  </component>
+</project>
