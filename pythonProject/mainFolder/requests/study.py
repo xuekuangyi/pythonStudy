@@ -13,7 +13,8 @@ par = {'activNo': '21091100003', 'businessType': '4'}
 res = requests.post(url=whole_url, data=par)  # post方法
 
 json_contents = res.text
-data2 = json.dumps({"Status": "false", "Msg": "该活动不是用户领券活动", "StatusCode": 500}, sort_keys=True, indent=4, separators=('"', ': '))
+data2 = json.dumps({"Status": "false", "Msg": "该活动不是用户领券活动", "StatusCode": 500}, sort_keys=True, indent=4,
+                   separators=('"', ': '))
 print(data2)
 print(json_contents)
 print(res.status_code)  # 获取返回状态
