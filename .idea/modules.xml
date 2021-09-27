@@ -4,8 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/PycharmProjects.iml" filepath="$PROJECT_DIR$/.idea/PycharmProjects.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Python-100-days/.idea/Python-100-days.iml" filepath="$PROJECT_DIR$/../Python-100-days/.idea/Python-100-days.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python-Core-50-Courses/.idea/Python-Core-50-Courses.iml" filepath="$PROJECT_DIR$/../Python-Core-50-Courses/.idea/Python-Core-50-Courses.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Python-Guide-CN/.idea/Python-Guide-CN.iml" filepath="$PROJECT_DIR$/../Python-Guide-CN/.idea/Python-Guide-CN.iml" />
       <module fileurl="file://$PROJECT_DIR$/../explore-python/.idea/explore-python.iml" filepath="$PROJECT_DIR$/../explore-python/.idea/explore-python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../requests/.idea/requests.iml" filepath="$PROJECT_DIR$/../requests/.idea/requests.iml" />
       <module fileurl="file://$PROJECT_DIR$/../show-me-the-code/.idea/show-me-the-code.iml" filepath="$PROJECT_DIR$/../show-me-the-code/.idea/show-me-the-code.iml" />
       <module fileurl="file://$PROJECT_DIR$/../wxpy/.idea/wxpy.iml" filepath="$PROJECT_DIR$/../wxpy/.idea/wxpy.iml" />
     </modules>
