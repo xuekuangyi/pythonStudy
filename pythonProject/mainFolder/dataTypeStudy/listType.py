@@ -1,6 +1,6 @@
-# 字符串和元组是不可变的，而列表是可变（mutable）的，可以对它进行随意修改。
-# 我们还可以将字符串和元组转换成一个列表，只需使用 list 函数
-str_study = 'hello'
+# 字符串和元组是不可变的（常量），而列表list是可变（mutable）的，可以对它进行随意修改。
+# 我们还可以将字符串和元组转换成一个列表，只需使用 list 函数来实现该类型转换
+str_study = 'hello'                                     # 字符串类型
 tuple_type = ('a', 'b', 'c', 'd')
 list_type = list(str_study)
 print(list_type)
@@ -17,8 +17,8 @@ print(f'元素5在list{elementLookingFor}中出现的位置是:'+ str(numbers.in
 
 numbers = [1, 2, 3, 4, 5, 5, 7, 8]
 counter = 5
-print(f'元素{counter}在{numbers}共有', numbers.count(counter))                                 # 对元素出现此次数记数
-print(type(numbers.count(counter)))                           # 查看返回的类型是否为int
+print(f'元素{counter}在{numbers}共有', numbers.count(counter))   # 对元素出现此次数记数
+print(type(numbers.count(counter)))                            # 查看返回的类型是否为int
 
 
 
